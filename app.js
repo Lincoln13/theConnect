@@ -8,7 +8,7 @@ var express = require("express"),
 var server_user = []; 
 var clients = []; 
 var group_leader = []; 
-http.listen(3000, function() {
+http.listen(process.env.PORT || 3000, function() {
     console.log("Connected to :3000");
 });
 
