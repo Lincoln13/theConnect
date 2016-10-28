@@ -2,6 +2,7 @@
   "name": "theconnect",
   "version": "0.0.1",
   "description": "App",
+  "main": "app.js",
   "dependencies": {
     "socket.io": "latest"
   },
@@ -9,7 +10,7 @@
   "main": "app.js",
   "devDependencies": {},
   "scripts": {
-    "test": "node app"
+	"start" : "node app.js"
   },
   "engines": {
 	"node": "4.4.4",
