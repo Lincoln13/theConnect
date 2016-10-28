@@ -11,6 +11,10 @@
   "scripts": {
     "test": "node app"
   },
+  "engines": {
+	"node": "4.4.4",
+	"npm": "2.15.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lincoln13/theconnect.git"
