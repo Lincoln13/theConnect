@@ -1,9 +1,23 @@
 {
-    "name": "App",
-    "version": "0.0.1",
-    "description": "App",
-    "dependencies": {
-        "socket.io": "latest"
-    },
-    "author": "developer"
+  "name": "theconnect",
+  "version": "0.0.1",
+  "description": "App",
+  "dependencies": {
+    "socket.io": "latest"
+  },
+  "author": "developer",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lincoln13/theconnect.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lincoln13/theconnect/issues"
+  },
+  "homepage": "https://github.com/Lincoln13/theconnect#readme"
 }
