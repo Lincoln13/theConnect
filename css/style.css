@@ -42,6 +42,8 @@
     background:black;
     opacity:0.8;
     z-index:30;
+	right: 37.3775%;
+	cursor:pointer;
 }
 
 #chat .chat_area li a {
