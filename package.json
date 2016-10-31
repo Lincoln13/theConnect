@@ -1,29 +1,12 @@
 {
   "name": "theconnect",
   "version": "0.0.1",
-  "description": "App",
-  "main": "app.js",
+  "description": "connects teachers to students and vice-versa",
+  "node": "4.4.4",
+  "npm": "2.15.1",
   "dependencies": {
 	"express": "4.14.0",
     "socket.io": "1.5.1"
   },
-  "author": "developer",
-  "main": "app.js",
-  "devDependencies": {},
-  "scripts": {
-	"start" : "node app.js"
-  },
-  "engines": {
-	"node": "4.4.4",
-	"npm": "2.15.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Lincoln13/theconnect.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Lincoln13/theconnect/issues"
-  },
-  "homepage": "https://github.com/Lincoln13/theconnect#readme"
+  "scripts": {"start": "node app.js"}
 }
