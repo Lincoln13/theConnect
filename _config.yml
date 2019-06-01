@@ -1,0 +1,8 @@
+title: Theconnect
+description: Connecting Teachers to Students using node js
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
